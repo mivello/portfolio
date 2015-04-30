@@ -1,0 +1,15 @@
+{
+    "name": "me/drupal",
+    "require": {
+        "symfony/finder": "~2.6",
+		"symfony/filesystem": "2.1.x-dev",
+        "doctrine/dbal": "~2.5",
+		"drush/drush": "6.*"
+    },
+    "authors": [
+        {
+            "name": "Minna",
+            "email": "mivello@gmail.com"
+        }
+    ]
+}

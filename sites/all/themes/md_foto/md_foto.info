@@ -1,0 +1,37 @@
+name = MD Foto
+description = MD Foto Drupal theme by <a href="http://megadrupal.com" target="_blank">MegaDrupal</a>.
+core = 7.x
+engine = phptemplate
+
+stylesheets[all][] = css/style.css
+
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+regions[highlighted] = Highlighted
+
+regions[content_top] = Content top
+regions[content] = Content
+regions[content_bottom] = Content bottom
+regions[sidebar] = Sidebar
+regions[footer] = Footer
+
+
+; DEFAULT THEME SETTINGS
+
+settings[toggle_name] = 0
+settings[toggle_slogan] = 0
+settings[toggle_node_user_picture] = 0
+settings[shortcut_module_link] = 0
+
+settings[responsive] = 1
+settings[skins] = 0
+settings[breadcrumb_separator] = » 
+settings[sidebar_position] = 2
+settings[css3_textarea] = 1
+; Information added by drupal.org packaging script on 2013-02-15
+version = "7.x-1.0"
+core = "7.x"
+project = "md_foto"
+datestamp = "1360910525"
+

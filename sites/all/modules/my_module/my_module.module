@@ -1,0 +1,5 @@
+<?php
+/**
+ * @file
+ * A block module that displays user a message
+ */

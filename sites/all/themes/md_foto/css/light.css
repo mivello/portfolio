@@ -1,0 +1,45 @@
+body {background: #fff; color: #4C4C4C}
+.pagewrap {background: #fff;}
+a:link,
+a:visited {
+    text-decoration: none;
+    outline: none;
+    color: #444;
+}
+a:hover,
+a:active,
+a:focus,
+li a.active,
+ul#main-menu-links li:hover a,
+ul#main-menu-links li.active a,
+ul#main-menu-links li a:hover { color: #222;}
+
+input.form-submit, a.button, .link-wrapper a {color: #fff}
+
+input.form-text, textarea.form-textarea, select.form-select {
+    color: #222;
+    background: #fff;
+    border-color: #e4e4e4;
+}
+
+h1#page-title,
+#content h2.title,
+.block h3.block-title{color: #4C4C4C; background-image: url(../images/page-title-light.png);}
+
+#content .node-photos-teaser h2.photo-title a {
+    color: #fff;
+}
+
+.tabs ul.primary li a {background: #fff; color: #333}
+.tabs ul.primary li.active a, .tabs ul.primary li a:hover {background: #e4e4e4}
+
+.pager a,
+.view-latest-from-blog li,
+.comment,
+.tabs ul.primary,
+.tabs ul.primary li a,
+.tabs ul.primary li.active a,
+.tabs ul.primary li a:hover,
+.meta-share-wrap,
+.meta_share,
+#footer {border-color: #e4e4e4}
